@@ -1,0 +1,18 @@
+[
+  {
+    "site_name": "Upper Yarra Reservoir Park Camping Ground",
+    "coordinates": {"lat": -37.6699137, "lng": 145.8886747},
+    "place_id": "ChIJjfWwdbVHKGsRZf3K23w22_A",
+    "driving_distance_from_melbourne_km": 98.8,
+    "driving_time_from_melbourne_minutes": 109,
+    "elevation_meters": 303.01
+  },
+  {
+    "site_name": "Doon Reserve Caravan Park",
+    "coordinates": {"lat": -37.771291, "lng": 145.60902},
+    "place_id": "ChIJ--RLzxbTKWsRBIm6kXrpW1s",
+    "driving_distance_from_melbourne_km": 66.3,
+    "driving_time_from_melbourne_minutes": 76,
+    "elevation_meters": 118.84
+  }
+]
